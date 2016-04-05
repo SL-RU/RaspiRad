@@ -1,0 +1,9 @@
+#Станции можно брать отсюда: http://nevremya.narod.ru/transmission/
+#Первые три станции - быстрый доступ
+http://livestream.rfn.ru:8080/mayakfm/mp3_192kbps Radio Mayak
+http://nashe.streamr.ru/nashe-128.mp3 Nashe Radio
+http://radio02-cn03.akadostream.ru:8114/zvezda128.mp3 Zvezda
+http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps Radio Kultura
+http://avtoradio.ptz.ru:8000/128
+http://radio.everypony.info:8000/320
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps Radio Rossii
